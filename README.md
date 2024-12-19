@@ -1,0 +1,1 @@
+<h1 align="center"> 🚀 <img alt="" title="" src="./public/logo.png" width="200px"> 🚀 </h1>
